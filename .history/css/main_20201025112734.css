@@ -32,10 +32,10 @@
 .header {position: relative;}
 .header-top {max-width: 100%;height: 4px;background-color: #7e5c88;}
 .header-content {max-width: 959px;position: relative;margin: 0 auto;}
-.header-content .header-menu {padding-bottom: 40px;}
+.header-content .header-menu {padding-bottom: 20px;}
 .bg-light {background: none !important;padding: 0;}
 .row>.sol-sm>img {padding: 60px 0;}
-.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {background-color: #7e5c88;color: white;padding: 60px 8px;transition: all 1s ease-in-out 0s;}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {background-color: #7e5c88;color: white;padding: 50px 10px;transition: all .6s ease-in-out 0s;}
 .navbar-light .navbar-nav .nav-link {font-size: 13px;}
 .navbar-expand-lg .navbar-collapse>ul>li>a {padding: 60px 0;}
 .navbar-expand-lg .navbar-nav {width: 100%;display: flex;justify-content: flex-end;}
