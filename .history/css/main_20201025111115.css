@@ -6,7 +6,7 @@
 .header-content {max-width: 959px;position: relative;margin: 0 auto;}
 .bg-light {background: none !important;padding: 0;}
 .row>.sol-sm>img {padding: 60px 0;}
-.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {background-color: #7e5c88;color: white;padding: 60px 20px;}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {background-color: #7e5c88;color: white;padding: 50px 10px;transition: all .6s ease-in-out 0s;}
 .navbar-light .navbar-nav .nav-link {font-size: 13px;}
 .navbar-expand-lg .navbar-collapse>ul>li>a {padding: 60px 0;}
 .navbar-expand-lg .navbar-nav {width: 100%;display: flex;justify-content: flex-end;}
@@ -25,7 +25,7 @@ button:focus {outline:none;}
 
 /* header-banner */
 .header-banner {max-width: 959px;position: relative;}
-.d-block {float: right;border-radius: 999rem;border: 20px solid #7e5c88;}
+.d-block {float: right;border-radius: 999rem;border: 16px solid #7e5c88;}
 .carousel-caption {color: black;right: 0;bottom: 70px;left: 0;text-align: left;}
 .carousel-caption>h1 {font-size: 46px;}
 .carousel-caption>p {font-size: 12px;}
@@ -64,7 +64,7 @@ button:focus {outline:none;}
 .card-deck {margin-left: 0;margin-right: 0;padding: 40px 0 0 0;}
 .card-deck .card {margin-left: 6px;margin-right: 6px;background-color: #eeeeee;border-radius: 0;border: 0;}
 .card-deck .card>a {color: black;}
-.card-deck .card>a:hover {text-decoration: none;color: white;background-color: #7e5c88;}
+.card-deck .card>a:hover {text-decoration: none;color: white;background-color: #7e5c88;transition: all .6s ease-in-out 0s;}
 .card-title {margin: 0;text-align: center;border: none;padding: 4%;font-size: 12px;}
 .card-body {padding: 0;}
 /* main-content-0ne end */
